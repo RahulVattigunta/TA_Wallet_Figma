@@ -1,9 +1,11 @@
 # TA_Wallet_Figma
 
 # Project Overview
-The TA Wallet App has been a reliable tool for UPI transactions in India. However, its outdated user interface and lengthy login process created inefficiencies, making it difficult for users to access key features quickly. This project focuses on a complete redesign of the TA Wallet App to enhance the user experience (UX) and streamline digital transactions.
+The TA Wallet App is a UPI-based digital payments application used in India. While functionally reliable, the legacy version suffered from an outdated UI, a lengthy login flow, and poor discoverability of core features. These issues introduced friction in time-sensitive payment scenarios.
 
-The redesign aims to simplify navigation, reduce login complexity, and ensure security and accessibility, allowing users to complete transactions effortlessly within seconds. Through UX research, wireframing, and modern UI principles, the new design prioritizes speed, usability, and trust, ultimately improving digital payments for a broad range of users.
+This project represents a complete UX and UI redesign of the TA Wallet App, with a strong emphasis on speed, usability, accessibility, and security. The goal was to enable users to complete secure transactions within seconds while maintaining trust and compliance with modern UX standards.
+
+The redesign was driven by user research, task-flow optimization, and modern front-end design principles, resulting in a cleaner, faster, and more intuitive digital payment experience.
 
 # Key Features & Enhancements
 - **Faster Login & Authentication:**
@@ -29,18 +31,23 @@ Simplified interface for better reach across all user groups.
 - Accessibility concerns, especially for users needing multi-language support.
 - These insights guided the four key pillars of the redesign: Speed, Simplicity, Security, and Accessibility.
 
-#### Wireframing & Task Flow Optimization:
+Project Overview
 
-- Reduce login steps and prioritize essential actions.
-- Ensure smooth user interaction from app launch to transaction completion.
-- Enhance the home screen experience, making key features instantly accessible.
+The TA Wallet App is a UPI-based digital payments application used in India. While functionally reliable, the legacy version suffered from an outdated UI, a lengthy login flow, and poor discoverability of core features. These issues introduced friction in time-sensitive payment scenarios.
 
-#### Color Theory & Typography:
-- Green and white were chosen as primary colors to represent trust, growth, and clarity.
-- A modern font hierarchy was implemented for better readability and accessibility.
+This project represents a complete UX and UI redesign of the TA Wallet App, with a strong emphasis on speed, usability, accessibility, and security. The goal was to enable users to complete secure transactions within seconds while maintaining trust and compliance with modern UX standards.
 
-# Implementation & Future Work
-The redesigned TA Wallet successfully enhances the UPI transaction experience with:
+The redesign was driven by user research, task-flow optimization, and modern front-end design principles, resulting in a cleaner, faster, and more intuitive digital payment experience.
+
+🎯 Objectives
+
+Reduce login and transaction time
+
+Simplify navigation and visual hierarchy
+
+Reinforce security and trust indicators
+
+Improve accessibility for diverse user groups
 
 - Optimized user flow for faster logins and transactions.
 - A modernized, intuitive interface for seamless navigation.
